@@ -1,0 +1,23 @@
+{
+  "name": "@hitsuki9/prettier-config",
+  "version": "1.0.0",
+  "description": "My personal Prettier config",
+  "main": "index.json",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hitsuki9/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "author": "Hitsuki9",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hitsuki9/prettier-config/issues"
+  },
+  "homepage": "https://github.com/Hitsuki9/prettier-config#readme"
+}
