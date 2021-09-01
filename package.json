@@ -1,21 +1,24 @@
 {
   "name": "@hitsuki9/prettier-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "My personal Prettier config",
   "main": "index.json",
   "publishConfig": {
     "access": "public"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Hitsuki9/prettier-config.git"
-  },
+  "author": "Hitsuki9",
+  "license": "MIT",
   "keywords": [
     "prettier",
     "config"
   ],
-  "author": "Hitsuki9",
-  "license": "MIT",
+  "dependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hitsuki9/prettier-config.git"
+  },
   "bugs": {
     "url": "https://github.com/Hitsuki9/prettier-config/issues"
   },
